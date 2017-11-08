@@ -22,3 +22,5 @@ require_once __DIR__.'/public/index.php';
 
 // ganti nama server.php jadi index.php
 // .htaccess masukin ke folder paling luar
+
+//            "php artisan migrate --force"
